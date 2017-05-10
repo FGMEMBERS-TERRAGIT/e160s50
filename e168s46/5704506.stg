@@ -1,3 +1,6 @@
+OBJECT_SHARED Models/Aircraft/cessna_caravan_lowpoly.ac 168.74391909 -45.02620816 352.5 312
+OBJECT_SHARED Models/Aircraft/citation_bravo_lowpoly.ac 168.74372653 -45.02578803 353.13 312
+OBJECT_SHARED Models/Aircraft/pc6_lowpoly.ac 168.74354106 -45.02541512 353.67 312
 OBJECT_SHARED Models/Aircraft/dc3_lowpoly.ac 168.7424201 -45.023171 355.59 168
 OBJECT_SHARED Models/Aircraft/dc3_green_lowpoly.ac 168.7409712 -45.024034 354.49 0
 # dsf2stg
